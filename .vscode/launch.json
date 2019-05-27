@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Quadrattest",
+            "request": "launch",
+            "mainClass": "woche_3.Quadrattest",
+            "projectName": "Programmieren_df5681f0"
+        }
+    ]
+}
