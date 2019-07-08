@@ -2,9 +2,44 @@
     "configurations": [
         {
             "type": "java",
-            "name": "CodeLens (Launch) - Quadrattest",
+            "name": "CodeLens (Launch) - Filmdatenbank",
             "request": "launch",
-            "mainClass": "woche_3.Quadrattest",
+            "mainClass": "projekt.Filmdatenbank",
+            "projectName": "Programmieren_78822e51"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - DataParser",
+            "request": "launch",
+            "mainClass": "projekt.utils.DataParser",
+            "projectName": "Programmieren_78822e51"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - FileTest",
+            "request": "launch",
+            "mainClass": "woche_7.FileTest",
+            "projectName": "Programmieren_78822e51"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - StreamsTest",
+            "request": "launch",
+            "mainClass": "woche_6.StreamsTest",
+            "projectName": "Programmieren_78822e51"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Unternehmen",
+            "request": "launch",
+            "mainClass": "woche_4.mitarbeiterdatenbank.Unternehmen",
+            "projectName": "Programmieren_78822e51"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Komplex",
+            "request": "launch",
+            "mainClass": "woche_4.Komplex",
             "projectName": "Programmieren_df5681f0"
         }
     ]
